@@ -1,0 +1,1156 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "qt_project"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 46,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 31,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 35,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 40,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/02_QtEvent"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/02_Qtsource"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/03_Qdialog"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/03_QPainter"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/04_layout"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/05_qt_control"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/06_TreeWidget"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/07_TableWidget"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/08_othercontrol"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/0_smallwidget"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/1_Qmainwindow"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-1_Qmainwindow-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-third-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/first"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/third"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "/Users/shenxiangyu/Documents/\u4f20\u8f93/qt project/two"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				6,
+				8,
+				9,
+				11,
+				12,
+				14,
+				15,
+				17,
+				18,
+				20,
+				21,
+				23,
+				24,
+				26,
+				27,
+				29,
+				30,
+				32,
+				34,
+				35,
+				38,
+				40,
+				43,
+				47,
+				49,
+				53,
+				56,
+				59,
+				62,
+				65,
+				66,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				80,
+				82,
+				84,
+				85,
+				87,
+				88,
+				90,
+				92
+			]
+		}
+	],
+	"id" : "qt_project::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "qt_project",
+	"nameOnDisk" : "qt_project",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				6,
+				8,
+				9,
+				11,
+				12,
+				14,
+				15,
+				17,
+				18,
+				20,
+				21,
+				23,
+				24,
+				26,
+				27,
+				29,
+				30,
+				32,
+				34,
+				35,
+				38,
+				40,
+				43,
+				47,
+				49,
+				53,
+				56,
+				59,
+				62,
+				65,
+				66,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				80,
+				82,
+				84,
+				85,
+				87,
+				88,
+				90,
+				92
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2,
+				4,
+				7,
+				10,
+				13,
+				16,
+				19,
+				22,
+				25,
+				28,
+				31,
+				33,
+				36,
+				37,
+				39,
+				41,
+				42,
+				44,
+				45,
+				46,
+				48,
+				50,
+				51,
+				52,
+				54,
+				55,
+				57,
+				58,
+				60,
+				61,
+				63,
+				64,
+				67,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				81,
+				83,
+				86,
+				89,
+				91,
+				93
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02_QtEvent/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02_QtEvent/mylabel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "02_QtEvent/mylabel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02_QtEvent/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "02_QtEvent/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02_Qtsource/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02_Qtsource/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "02_Qtsource/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "03_Qdialog/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "03_Qdialog/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "03_Qdialog/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "03_QPainter/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "03_QPainter/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "03_QPainter/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "04_layout/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "04_layout/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "04_layout/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "05_qt_control/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "05_qt_control/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "05_qt_control/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "06_TreeWidget/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "06_TreeWidget/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "06_TreeWidget/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "07_TableWidget/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "07_TableWidget/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "07_TableWidget/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "08_othercontrol/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "08_othercontrol/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "08_othercontrol/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "0_smallwidget/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "0_smallwidget/smallwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "0_smallwidget/smallwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "0_smallwidget/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "0_smallwidget/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "1_Qmainwindow/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "1_Qmainwindow/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "1_Qmainwindow/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_smallwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_smallwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-1_Qmainwindow-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-1_Qmainwindow-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mypushbutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-third-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-third-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "first/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "first/mypushbutton.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "first/mypushbutton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "first/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "first/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "third/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "third/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third/widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "two/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "two/student.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "two/student.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "two/teacher.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "two/teacher.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "two/widget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "two/widget.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

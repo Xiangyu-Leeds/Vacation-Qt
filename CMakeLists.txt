@@ -1,0 +1,140 @@
+cmake_minimum_required(VERSION 3.23)
+project(qt_project)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(02_QtEvent)
+include_directories(02_Qtsource)
+include_directories(03_Qdialog)
+include_directories(03_QPainter)
+include_directories(04_layout)
+include_directories(05_qt_control)
+include_directories(06_TreeWidget)
+include_directories(07_TableWidget)
+include_directories(08_othercontrol)
+include_directories(0_smallwidget)
+include_directories(1_Qmainwindow)
+include_directories(build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-1_Qmainwindow-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-third-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)
+include_directories(build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug)
+include_directories(first)
+include_directories(third)
+include_directories(two)
+
+add_executable(qt_project
+        02_QtEvent/main.cpp
+        02_QtEvent/mylabel.cpp
+        02_QtEvent/mylabel.h
+        02_QtEvent/widget.cpp
+        02_QtEvent/widget.h
+        02_Qtsource/main.cpp
+        02_Qtsource/mainwindow.cpp
+        02_Qtsource/mainwindow.h
+        03_Qdialog/main.cpp
+        03_Qdialog/mainwindow.cpp
+        03_Qdialog/mainwindow.h
+        03_QPainter/main.cpp
+        03_QPainter/widget.cpp
+        03_QPainter/widget.h
+        04_layout/main.cpp
+        04_layout/mainwindow.cpp
+        04_layout/mainwindow.h
+        05_qt_control/main.cpp
+        05_qt_control/widget.cpp
+        05_qt_control/widget.h
+        06_TreeWidget/main.cpp
+        06_TreeWidget/widget.cpp
+        06_TreeWidget/widget.h
+        07_TableWidget/main.cpp
+        07_TableWidget/widget.cpp
+        07_TableWidget/widget.h
+        08_othercontrol/main.cpp
+        08_othercontrol/widget.cpp
+        08_othercontrol/widget.h
+        0_smallwidget/main.cpp
+        0_smallwidget/smallwidget.cpp
+        0_smallwidget/smallwidget.h
+        0_smallwidget/widget.cpp
+        0_smallwidget/widget.h
+        1_Qmainwindow/main.cpp
+        1_Qmainwindow/mainwindow.cpp
+        1_Qmainwindow/mainwindow.h
+        build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-02_QtEvent-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+        build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-02_Qtsource-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+        build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+        build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-03_Qdialog-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+        build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-03_QPainter-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+        build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-04_layout-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_mainwindow.h
+        build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-05_qt_control-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-06_TreeWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-07_TableWidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-08_othercontrol-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_smallwidget.cpp
+        build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_smallwidget.h
+        build-0_smallwidget-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        build-1_Qmainwindow-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mainwindow.cpp
+        build-1_Qmainwindow-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_mypushbutton.cpp
+        build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-first-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-third-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-third-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_predefs.h
+        build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/debug/moc_widget.cpp
+        build-two-Desktop_Qt_5_14_2_MinGW_32_bit-Debug/ui_widget.h
+        first/main.cpp
+        first/mypushbutton.cpp
+        first/mypushbutton.h
+        first/widget.cpp
+        first/widget.h
+        third/main.cpp
+        third/widget.cpp
+        third/widget.h
+        two/main.cpp
+        two/student.cpp
+        two/student.h
+        two/teacher.cpp
+        two/teacher.h
+        two/widget.cpp
+        two/widget.h)
